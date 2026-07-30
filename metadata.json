@@ -1,0 +1,6 @@
+{
+  "name": "CineStream - Movie Streaming & Upload Platform",
+  "description": "A cinema-grade movie streaming platform with customer viewing and restricted upload access for linux4489@gmail.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
